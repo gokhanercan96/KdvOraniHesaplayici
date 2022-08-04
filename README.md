@@ -1,2 +1,2 @@
 # KdvOraniHesaplayici
-Ürünün fiyatına göre kdv oranını planlayan program
+Ürünün fiyatına göre KDV oranını planlayan program
